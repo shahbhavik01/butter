@@ -1,0 +1,14 @@
+{
+  "resourceName": "butterimages",
+  "policyUUID": "7627178d",
+  "bucketName": "amplifybutterimages",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
